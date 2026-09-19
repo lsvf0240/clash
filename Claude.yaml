@@ -1,0 +1,41 @@
+payload:
+
+
+   # Anthropic / Claude
+    - DOMAIN-SUFFIX   , anthropic.com
+    - DOMAIN-SUFFIX   , claude.ai
+    - DOMAIN-SUFFIX   , claude.com
+
+
+   # Claude API
+    - DOMAIN-SUFFIX   , api.anthropic.com
+    - DOMAIN-SUFFIX   , api.claude.ai
+    - DOMAIN-SUFFIX   , api.claude.com
+
+
+   # Claude Platform / Console
+    - DOMAIN-SUFFIX   , platform.claude.com
+    - DOMAIN-SUFFIX   , console.anthropic.com
+    - DOMAIN-SUFFIX   , console.claude.com
+
+
+   # Claude CDN / Assets
+    - DOMAIN-SUFFIX   , assets.claude.ai
+    - DOMAIN-SUFFIX   , a-cdn.claude.ai
+    - DOMAIN-SUFFIX   , assets.anthropic.com
+    - DOMAIN-SUFFIX   , a-cdn.anthropic.com
+
+
+   # Anthropic Services
+    - DOMAIN-SUFFIX   , support.anthropic.com
+    - DOMAIN-SUFFIX   , docs.anthropic.com
+    - DOMAIN-SUFFIX   , status.anthropic.com
+    - DOMAIN-SUFFIX   , www.anthropic.com
+
+
+   # Claude Code
+    - DOMAIN-SUFFIX   , claude-code.anthropic.com
+
+
+   # Claude Authentication
+    - DOMAIN-SUFFIX   , auth.anthropic.com
